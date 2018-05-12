@@ -1,0 +1,30 @@
+_repo: DegeneracyIts-Causes-Signs-and-Results_36003
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36003-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Talbot, Eugene S. (Eugene Solomon)
+    alias: Talbot, Eugene Solomon
+    birthdate: 1847
+    deathdate: 1924
+    gutenberg_agent_id: '38025'
+    url: http://www.gutenberg.org/2009/agents/38025
+description: ''
+gutenberg_issued: '2011-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36003'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcc 'QM'
+- !lcsh 'Degeneration'
+- !lcsh 'Abnormalities, Human'
+- !lcsh 'Heredity, Human'
+title: 'Degeneracy: Its Causes, Signs and Results'
+url: http://www.gutenberg.org/ebooks/36003
